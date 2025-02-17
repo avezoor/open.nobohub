@@ -1,0 +1,44 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "x": 100,
+            "y": 100,
+            "title": "Project A",
+            "label": "Frontend",
+            "content": "Main frontend application",
+            "link": "https://example.com/project-a",
+            "nid": "PRJ-001"
+        },
+        {
+            "id": "2",
+            "x": 300,
+            "y": 100,
+            "title": "Project B",
+            "label": "Backend",
+            "content": "API Server",
+            "link": "https://example.com/project-b",
+            "nid": "PRJ-002"
+        },
+        {
+            "id": "3",
+            "x": 200,
+            "y": 300,
+            "title": "Project C",
+            "label": "Database",
+            "content": "PostgreSQL Database",
+            "link": "https://example.com/project-c",
+            "nid": "PRJ-003"
+        }
+    ],
+    "edges": [
+        {
+            "source": "1",
+            "target": "2"
+        },
+        {
+            "source": "2",
+            "target": "3"
+        }
+    ]
+}
