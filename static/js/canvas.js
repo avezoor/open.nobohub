@@ -10,7 +10,7 @@ class NodeCanvas {
         this.offset = { x: window.innerWidth / 2, y: window.innerHeight / 2 };
         this.scale = 1;
         this.zoomSpeed = 0.1;
-        this.nodeRadius = 20; // Reduced node size
+        this.nodeRadius = 20;
         this.gridSize = 50;
         this.searchQuery = '';
         this.filterType = 'all';
@@ -39,7 +39,6 @@ class NodeCanvas {
         this.canvas.addEventListener('wheel', (e) => this.handleWheel(e));
         this.canvas.addEventListener('click', (e) => this.handleClick(e));
 
-        // Search and filter event listeners
         const searchInput = document.getElementById('searchInput');
         const filterType = document.getElementById('filterType');
 
@@ -162,7 +161,6 @@ class NodeCanvas {
     }
 
     drawNode(node) {
-        // Glow effect
         const gradient = this.ctx.createRadialGradient(
             node.x, node.y, this.nodeRadius * 0.5,
             node.x, node.y, this.nodeRadius * 1.5
@@ -175,7 +173,6 @@ class NodeCanvas {
         this.ctx.fillStyle = gradient;
         this.ctx.fill();
 
-        // Main node
         this.ctx.beginPath();
         this.ctx.arc(node.x, node.y, this.nodeRadius, 0, Math.PI * 2);
         this.ctx.fillStyle = '#0a1a1f';
@@ -187,20 +184,15 @@ class NodeCanvas {
         if (node.label) {
             this.ctx.font = '14px "Courier New", monospace';
 
-            // Create floating label effect
             const labelY = node.y - this.nodeRadius - 15;
-
-            // Add cyberpunk background for label
             const labelWidth = this.ctx.measureText(node.label).width;
             this.ctx.fillStyle = 'rgba(10, 26, 31, 0.9)';
             this.ctx.fillRect(node.x - labelWidth/2 - 5, labelY - 10, labelWidth + 10, 20);
 
-            // Draw label border
             this.ctx.strokeStyle = '#00ff9d';
             this.ctx.lineWidth = 1;
             this.ctx.strokeRect(node.x - labelWidth/2 - 5, labelY - 10, labelWidth + 10, 20);
 
-            // Draw label text with glow effect
             this.ctx.shadowColor = '#00ff9d';
             this.ctx.shadowBlur = 5;
             this.ctx.fillStyle = '#00ff9d';
@@ -212,12 +204,11 @@ class NodeCanvas {
     }
 
     drawEdge(source, target) {
-        // Draw edge with glow effect
+
         this.ctx.beginPath();
         this.ctx.moveTo(source.x, source.y);
         this.ctx.lineTo(target.x, target.y);
 
-        // Edge glow effect
         this.ctx.shadowColor = '#00ff9d';
         this.ctx.shadowBlur = 10;
         this.ctx.strokeStyle = '#00ff9d';
@@ -234,7 +225,6 @@ class NodeCanvas {
         this.ctx.strokeStyle = 'rgba(0, 255, 157, 0.1)';
         this.ctx.lineWidth = 1;
 
-        // Draw vertical lines
         for (let x = offsetX; x < this.canvas.width; x += gridSize) {
             this.ctx.beginPath();
             this.ctx.moveTo(x, 0);
@@ -242,7 +232,6 @@ class NodeCanvas {
             this.ctx.stroke();
         }
 
-        // Draw horizontal lines
         for (let y = offsetY; y < this.canvas.height; y += gridSize) {
             this.ctx.beginPath();
             this.ctx.moveTo(0, y);
@@ -250,7 +239,6 @@ class NodeCanvas {
             this.ctx.stroke();
         }
 
-        // Draw diagonal lines for cyberpunk effect
         this.ctx.strokeStyle = 'rgba(0, 255, 157, 0.05)';
         for (let i = 0; i < this.canvas.width + this.canvas.height; i += gridSize * 2) {
             this.ctx.beginPath();
@@ -263,14 +251,12 @@ class NodeCanvas {
     draw() {
         this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
 
-        // Draw grid
         this.drawGrid();
 
         this.ctx.save();
         this.ctx.translate(this.offset.x, this.offset.y);
         this.ctx.scale(this.scale, this.scale);
 
-        // Draw edges between filtered nodes
         this.edges.forEach(edge => {
             const source = this.filteredNodes.find(n => n.id === edge.source);
             const target = this.filteredNodes.find(n => n.id === edge.target);
@@ -279,7 +265,7 @@ class NodeCanvas {
             }
         });
 
-        // Draw filtered nodes
+
         this.filteredNodes.forEach(node => this.drawNode(node));
 
         this.ctx.restore();

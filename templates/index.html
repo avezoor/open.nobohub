@@ -3,13 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Node Canvas</title>
+    <title>Nobohub Canvas</title>
     <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
-    <link href="/static/css/style.css" rel="stylesheet">
+    <link href="/static/css/global.css" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X49YEC6H58"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-X49YEC6H58');
+    </script>
 </head>
 <body>
-    <!-- Search Bar -->
     <div class="search-container">
         <div class="input-group">
             <input type="text" id="searchInput" class="form-control" placeholder="Search nodes...">
@@ -27,7 +34,6 @@
         <canvas id="nodeCanvas"></canvas>
     </div>
 
-    <!-- Node Details Modal -->
     <div class="modal fade" id="nodeDetailsModal" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
