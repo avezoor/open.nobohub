@@ -2,33 +2,33 @@
     "nodes": [
         {
             "id": "1",
-            "x": 100,
-            "y": 100,
-            "title": "Project A",
-            "label": "Frontend",
-            "content": "Main frontend application",
-            "link": "https://example.com/project-a",
-            "nid": "PRJ-001"
+            "x": 0,
+            "y": 0,
+            "title": "Project NoboHub Canvas",
+            "label": "The Labs",
+            "content": "Proyek ini bertujuan untuk memetakan seluruh pengetahuan yang saya peroleh sepanjang hidup. Saya, Izzar Suly Nashrudin, sebagai pengembang website ini, akan terus berusaha mencapai tujuan hidup dan belajar dari setiap kegagalan—tidak peduli berapa kali harus mencoba, saya akan terus berjuang hingga berhasil.\n\nSaya menamai proyek ini NoboHub Canvas. Apa itu NoboHub Canvas? Nama ini berasal dari gabungan dua kata, yaitu Nodes dan Blog, sedangkan Hub berarti pusat. Jika digabungkan, maknanya adalah kumpulan nodes yang saling terhubung dengan berbagai blog dan bermuara pada satu pusat.\n\nSetiap node dalam sistem ini memiliki NID (Node ID), yang berfungsi sebagai tanda pengenal unik untuk setiap postingan blog.",
+            "link": "https://nobohub.vercel.app/",
+            "nid": "1"
         },
         {
             "id": "2",
-            "x": 300,
-            "y": 100,
-            "title": "Project B",
-            "label": "Backend",
-            "content": "API Server",
-            "link": "https://example.com/project-b",
-            "nid": "PRJ-002"
+            "x": 100,
+            "y": 0,
+            "title": "Matematika",
+            "label": "Matematika",
+            "content": "Matematika adalah pola berpikir, pola mengorganisasikan, pembuktian yang logis; matematika adalah bahasa yang menggunakan istilah yang didefinisikan dengan cermat, jelas, dan akurat, serta direpresentasikan dengan simbol yang padat. - Johnson dan Rising (1972)",
+            "link": "",
+            "nid": "2"
         },
         {
             "id": "3",
-            "x": 200,
-            "y": 300,
-            "title": "Project C",
-            "label": "Database",
-            "content": "PostgreSQL Database",
-            "link": "https://example.com/project-c",
-            "nid": "PRJ-003"
+            "x": 150,
+            "y": 70,
+            "title": "",
+            "label": "Aljabar",
+            "content": "",
+            "link": "",
+            "nid": "3"
         }
     ],
     "edges": [
