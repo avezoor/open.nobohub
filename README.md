@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avezoor&label=Profile%20views&color=0e75b6&style=flat" alt="avezoor" /> </p>
 
 🚀 **About Me:**  
-- 🔭 I’m currently working on **[Your Project/Startup]**
+- 🔭 I’m currently working on **NoboLbas**
 - 🌱 I’m learning **AI**
 - 💡 I love **open source, problem-solving, and building cool stuff**
 - 💬 Ask me about **Data and Technology**
@@ -18,14 +18,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avezoor&show_icons=true&locale=en&layout=compact" alt="avezoor" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avezoor&" alt="avezoor" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avezoor&show_icons=true&locale=en&layout=compact" alt="avezoor" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avezoor&" alt="avezoor" /></p>
 
-### 🌐 Connect With Me:
 ### 🚀 Featured Projects:
-- [Project 1](https://github.com/yourusername/project1) - Description of project 1.
-- [Project 2](https://github.com/yourusername/project2) - Description of project 2.
-- [Project 3](https://github.com/yourusername/project3) - Description of project 3.
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 ### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)
@@ -34,6 +31,3 @@
 
 
 🎯 _"Code, Create, Innovate."_ 🚀
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
