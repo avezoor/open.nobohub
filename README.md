@@ -2,11 +2,14 @@
 <h3 align="center">A passionate Mathematics from Indonesia</h3>
 
 🚀 **About Me:**  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avezoor&label=Profile%20views&color=0e75b6&style=flat" alt="avezoor" /> </p>
-I’m currently working on NoboLabs and learning AI. I love open source, problem-solving, and building cool stuff. Feel free to ask me about Data and Technology. Fun fact: I think myself is funny.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avezoor&label=Profile%20views&color=0e75b6&style=flat" alt="avezoor" /> </p> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)
+
+I’m currently working on NoboLabs and learning AI. I love open source, problem-solving, and building cool stuff. Feel free to ask me about Data and Technology. Fun fact: I think myself is funny.  
+
+
 
 
   ### 🚀 Projects:
