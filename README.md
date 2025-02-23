@@ -5,6 +5,35 @@
 
 - ⚡ Fun fact **I think myself is funny**
 
+  ### Hi there, I'm [Your Name] 👋
+
+![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
+
+🚀 **About Me:**  
+- 🔭 I’m currently working on **[Your Project/Startup]**
+- 🌱 I’m learning **[Tech Stack or Skill]**
+- 💡 I love **open source, problem-solving, and building cool stuff**
+- 💬 Ask me about **[Your Expertise]**
+- ⚡ Fun fact: **[Something Interesting About You]**
+
+### 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+### 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+🎯 _"Code, Create, Innovate."_ 🚀
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/izzar-suly-nashrudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izzar-suly-nashrudin" height="30" width="40" /></a>
