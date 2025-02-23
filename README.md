@@ -5,10 +5,6 @@
 
 - ⚡ Fun fact **I think myself is funny**
 
-  ### Hi there, I'm [Your Name] 👋
-
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 🚀 **About Me:**  
 - 🔭 I’m currently working on **[Your Project/Startup]**
 - 🌱 I’m learning **[Tech Stack or Skill]**
