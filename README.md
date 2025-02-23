@@ -1,5 +1,3 @@
-![GitHub Banner](https://your-image-link.com)
-
 <h1 align="center">Hi 👋, I'm Izzar Suly Nashrudin</h1>
 <h3 align="center">Passionate about Mathematics, AI, and Open Source</h3>
 
