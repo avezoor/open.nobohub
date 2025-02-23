@@ -17,10 +17,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avezoor&show_icons=true&locale=en&layout=compact" alt="avezoor" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avezoor&" alt="avezoor" /></p>
-
 ### 🚀 Featured Projects:
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
@@ -29,5 +25,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)
 [![Github](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/avezoor)
 
-
-🎯 _"Code, Create, Innovate."_ 🚀
+### 📊 GitHub Stats:
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avezoor&show_icons=true&locale=en&layout=compact" alt="avezoor" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avezoor&" alt="avezoor" /></p>
