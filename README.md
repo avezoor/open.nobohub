@@ -14,6 +14,7 @@
 
 ### 🛠 Mastered Language:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avezoor&label=Profile%20views&color=0e75b6&style=flat" alt="avezoor" /> </p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
