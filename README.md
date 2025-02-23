@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0e75b6&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI!;Let's+build+something+awesome!+🚀)
+
 <h1 align="center">Hi 👋, I'm Izzar Suly Nashrudin</h1>
 <h3 align="center">A passionate Mathematics from Indonesia</h3>
 
