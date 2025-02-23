@@ -5,6 +5,7 @@
 
 ### About Me  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avezoor&label=Profile%20views&color=0e75b6&style=flat" alt="avezoor" /> </p> 
+<img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="50" />
 <div>I’m currently working on NoboLabs and learning AI. I love open source, problem-solving, and building cool stuff. Feel free to ask me about Data and Technology. Fun fact: I think myself is funny.  </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)
