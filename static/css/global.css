@@ -8,6 +8,10 @@ body, html {
     font-family: 'Courier New', monospace;
 }
 
+#nodeContent {
+    text-align: justify;
+}
+
 .search-container {
     position: fixed;
     top: 20px;

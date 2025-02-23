@@ -4,9 +4,9 @@
             "id": "1",
             "x": 0,
             "y": 0,
-            "title": "Project NoboHub Canvas",
-            "label": "The Labs",
-            "content": "Proyek ini bertujuan untuk memetakan seluruh pengetahuan yang saya peroleh sepanjang hidup. Saya, Izzar Suly Nashrudin, sebagai pengembang website ini, akan terus berusaha mencapai tujuan hidup dan belajar dari setiap kegagalan—tidak peduli berapa kali harus mencoba, saya akan terus berjuang hingga berhasil.\n\nSaya menamai proyek ini NoboHub Canvas. Apa itu NoboHub Canvas? Nama ini berasal dari gabungan dua kata, yaitu Nodes dan Blog, sedangkan Hub berarti pusat. Jika digabungkan, maknanya adalah kumpulan nodes yang saling terhubung dengan berbagai blog dan bermuara pada satu pusat.\n\nSetiap node dalam sistem ini memiliki NID (Node ID), yang berfungsi sebagai tanda pengenal unik untuk setiap postingan blog.",
+            "title": "NoboHub Canvas",
+            "label": "Core",
+            "content": "Nobohub Canvas adalah platform yang menyatukan pikiran dari sang kreator atau developer, Izzar Suly Nashrudin. Platform ini memungkinkan pengguna untuk menuangkan ide dan konsep dengan lebih terstruktur, mendukung visualisasi ide secara interaktif, serta mempermudah kolaborasi dalam pengembangan proyek. Namun, kekurangannya adalah tidak bisa digunakan di perangkat mobile.",
             "link": "https://nobohub.vercel.app/",
             "nid": "1"
         },
@@ -14,9 +14,9 @@
             "id": "2",
             "x": 100,
             "y": 0,
-            "title": "Matematika",
+            "title": "Matematika Advanced",
             "label": "Matematika",
-            "content": "Matematika adalah pola berpikir, pola mengorganisasikan, pembuktian yang logis; matematika adalah bahasa yang menggunakan istilah yang didefinisikan dengan cermat, jelas, dan akurat, serta direpresentasikan dengan simbol yang padat. - Johnson dan Rising (1972)",
+            "content": "Matematika adalah pola berpikir, pola mengorganisasikan, pembuktian yang logis; matematika adalah bahasa yang menggunakan istilah yang didefinisikan dengan cermat, jelas, dan akurat, serta direpresentasikan dengan simbol yang padat.",
             "link": "",
             "nid": "2"
         },
@@ -24,11 +24,62 @@
             "id": "3",
             "x": 150,
             "y": 70,
-            "title": "",
-            "label": "Aljabar",
-            "content": "",
+            "title": "Komputasi",
+            "label": "Komputasi",
+            "content": "Komputasi adalah proses penggunaan teknologi komputer untuk menyelesaikan berbagai tugas atau perhitungan. Ini mencakup semua aktivitas yang melibatkan pemrosesan data dan pelaksanaan algoritma oleh perangkat keras dan perangkat lunak komputer.",
             "link": "",
             "nid": "3"
+        },
+        {
+            "id": "4",
+            "x": 150,
+            "y": 140,
+            "title": "Python",
+            "label": "Python",
+            "content": "Python adalah bahasa pemrograman tingkat tinggi yang dirancang untuk mudah dibaca dan ditulis. Bahasa ini bersifat dinamis, interpretatif, dan berorientasi objek, serta memiliki sintaks yang sederhana sehingga mudah digunakan oleh pemula maupun profesional.\n\nPython ditemukan oleh Guido van Rossum pada tahun 1989 dan pertama kali dirilis pada 1991. Nama 'Python' terinspirasi dari grup komedi Inggris Monty Python's Flying Circus, bukan dari ular piton.\n\nPython banyak digunakan dalam berbagai bidang, termasuk pengembangan web, kecerdasan buatan, analisis data, machine learning, dan automasi.",
+            "link": "",
+            "nid": "4"
+        },
+        {
+            "id": "5",
+            "x": 0,
+            "y": -100,
+            "title": "Matematika Dasar",
+            "label": "Matematika Dasar",
+            "content": "Matematika adalah pola berpikir, pola mengorganisasikan, pembuktian yang logis; matematika adalah bahasa yang menggunakan istilah yang didefinisikan dengan cermat, jelas, dan akurat, serta direpresentasikan dengan simbol yang padat.",
+            "link": "https://nobohub.vercel.app/5/",
+            "nid": "5"
+        },
+        {
+            "id": "6",
+            "x": -75,
+            "y": 100,
+            "title": "Kemampuan Berbahasa",
+            "label": "Kemampuan Berbahasa",
+            "content": "Kemampuan berbahasa adalah keterampilan seseorang dalam memahami, menggunakan, dan mengolah bahasa untuk berkomunikasi secara efektif, baik secara lisan maupun tulisan. Kemampuan ini mencakup beberapa aspek utama, seperti:\n\n1. Mendengarkan (Listening) - Memahami pesan yang disampaikan secara lisan.\n2. Berbicara (Speaking) - Mengungkapkan gagasan secara verbal dengan jelas dan tepat.\n3. Membaca (Reading) - Memahami makna dari teks yang dibaca.\n4. Menulis (Writing) - Menyusun kalimat atau teks secara tertulis dengan baik.\n\nKemampuan berbahasa juga mencakup aspek tata bahasa, kosakata, serta pemahaman konteks sosial dan budaya dalam komunikasi. Ini sangat penting dalam kehidupan sehari-hari, pendidikan, serta dunia kerja.",
+            "link": "",
+            "nid": "6"
+        },
+        {
+            "id": "7",
+            "x": -155,
+            "y": 120,
+            "title": "Inggris",
+            "label": "Inggris",
+            "content": "Bahasa Inggris adalah bahasa internasional yang berasal dari Inggris dan digunakan secara luas di seluruh dunia untuk komunikasi, pendidikan, bisnis, dan teknologi.",
+            "link": "",
+            "nid": "7"
+        }
+        ,
+        {
+            "id": "8",
+            "x": 250,
+            "y": 140,
+            "title": "LaTeX",
+            "label": "LaTeX",
+            "content": "LaTeX adalah sistem penyusunan huruf berkualitas tinggi; LaTeX memiliki fitur-fitur yang dirancang untuk produksi dokumentasi teknis dan ilmiah. LaTeX adalah standar de facto untuk komunikasi dan publikasi dokumen ilmiah. LaTeX tersedia sebagai perangkat lunak gratis.",
+            "link": "",
+            "nid": "8"
         }
     ],
     "edges": [
@@ -39,6 +90,26 @@
         {
             "source": "2",
             "target": "3"
+        },
+        {
+            "source": "3",
+            "target": "4"
+        },
+        {
+            "source": "1",
+            "target": "5"
+        },
+        {
+            "source": "1",
+            "target": "6"
+        },
+        {
+            "source": "6",
+            "target": "7"
+        },
+        {
+            "source": "3",
+            "target": "8"
         }
     ]
 }
