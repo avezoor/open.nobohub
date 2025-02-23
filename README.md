@@ -4,7 +4,7 @@
 ---
 
 ### 🔹 About Me  
-🚀 Currently working at **NoboLabs** & learning **AI** | 🛠️ Love **problem-solving, open-source, and building cool projects** | 💬 Ask me about **Data, AI, and Technology** | 🎭 Fun fact: I think I'm funny 😆  
+I am currently working at NoboLabs and diving deep into the world of Artificial Intelligence (AI). I have a strong passion for problem-solving, especially in developing innovative solutions to various technological challenges. Additionally, I actively contribute to the open-source community because I believe that collaboration and knowledge-sharing accelerate innovation. I enjoy building cool projects, whether they are experimental or have real-world impact. If you're interested in discussing Data, AI, or Technology, feel free to ask—I’m always open to sharing insights and learning together. Oh, and a fun fact: I think I’m funny, though I might be the only one who thinks so! 😆🚀
 
 ### 🚀 Projects  
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
