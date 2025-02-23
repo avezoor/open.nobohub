@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izzar Suly Nashrudin</h1>
 <h3 align="center">Passionate about Mathematics, AI, and Open Source</h3>
 
----
-
 ### 🔹 About Me  
 - 🚀 Currently working at **NoboLabs** & learning **AI**  
 - 🛠️ Love **problem-solving, open-source, and building cool projects**  
@@ -12,6 +10,7 @@
 ---
 
 ### 📫 Connect with me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)  
 
