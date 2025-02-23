@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izzar Suly Nashrudin</h1>
 <h3 align="center">A passionate Mathematics from Indonesia</h3>
+
 🚀 **About Me:**  
 - 🔭 I’m currently working on **NoboLbas**
 - 🌱 I’m learning **AI**
