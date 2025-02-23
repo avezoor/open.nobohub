@@ -7,8 +7,8 @@
 <p align="justify">I am currently working at NoboLabs and diving deep into the world of Artificial Intelligence (AI). I have a strong passion for problem-solving, especially in developing innovative solutions to various technological challenges. Additionally, I actively contribute to the open-source community because I believe that collaboration and knowledge-sharing accelerate innovation. I enjoy building cool projects, whether they are experimental or have real-world impact. If you're interested in discussing Data, AI, or Technology, feel free to ask—I’m always open to sharing insights and learning together. Oh, and a fun fact: I think I’m funny, though I might be the only one who thinks so! 😆🚀</p>
 
 ### 🚀 Projects  
-[![Nobohub Infinity](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobohub.vercel.app/)  
-[![Nobohub Canvas](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobomain.vercel.app/)  
+[![Nobohub Infinity](https://img.shields.io/badge/Nobohub%20Infinity-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobohub.vercel.app/) [![Nobohub Canvas](https://img.shields.io/badge/Nobohub%20Canvas-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nobomain.vercel.app/)
+
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)  
