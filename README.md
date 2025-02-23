@@ -3,14 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avezoor&label=Profile%20views&color=0e75b6&style=flat" alt="avezoor" /> </p>
 
-- ⚡ Fun fact **I think myself is funny**
-
 🚀 **About Me:**  
 - 🔭 I’m currently working on **[Your Project/Startup]**
-- 🌱 I’m learning **[Tech Stack or Skill]**
+- 🌱 I’m learning **AI**
 - 💡 I love **open source, problem-solving, and building cool stuff**
-- 💬 Ask me about **[Your Expertise]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 💬 Ask me about **Data and Technology**
+- ⚡ Fun fact: **I think myself is funny**
 
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,8 +18,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avezoor&show_icons=true&locale=en&layout=compact" alt="avezoor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avezoor&" alt="avezoor" /></p>
 
 ### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
